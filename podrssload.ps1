@@ -3,7 +3,7 @@
  Write-Host " "
  Write-Host "Podcast Rss Feed is " $args[0].ToString()
  Write-Host " "
- Write-Host "Downloading Podcast " $feed.rss.channel.title.'#cdata-section'
+ Write-Host "Downloading Podcast " $feed.rss.channel.title.ToString() 
  Write-Host " "
  Write-Host "Number of Episodes =" $Feed.rss.channel.Item.count
  Write-Host " "
