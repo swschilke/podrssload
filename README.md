@@ -8,4 +8,4 @@ Usage: run in PowerShell podrssload.ps1 \< URL to Podcast RSS Feed \>
 
 Apple Podcast URl to RSS resolver
 
-USAGE: aplid2rss \< URL to Apple Podcast Entry \>
+USAGE: aplid2rss.ps1 \< URL to Apple Podcast Entry \>
